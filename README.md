@@ -29,17 +29,12 @@ telephone
 
 
 
-###
-
-### Your opinion about the assignment 
-    * i get to use my long awaited framework js (Adonis JS) since i am from Laravel (PHP)
-    * Quite fun as a backend developer this what i do every day (API Development)
 
 
-### What was the challenging thing in the assignment 
-    * Mail setup and configuration since i am a newbie to adonis JS
+
+
+
+
   
 
-  ### Did you follow clean code standards in the assignment
-
-    * YES, Please.
+ 
