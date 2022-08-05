@@ -31,15 +31,22 @@ $ Copy the url in the terminal and apend "/api/following_endpoints", and test it
 # All endpoint
 
 GET - /contacts (get all contacts, in batches of 10)
+
 GET - /contact/id (get one contact by id)
+
 POST - /contacts (insert contact)
+
 PATCH - /contacts/id (Update contact by id)
+
 DELETE - /contacts/id (Delete contact by id)
+
 POST - /contacts/upload-file
 
 # note: Fields include
 firstName
+
 lastName
+
 telephone
 
 
