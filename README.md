@@ -2,7 +2,7 @@
 
 ### Install Project
 
-$ Install node.js (if installed,, skip this step)
+$$ Install node.js (if installed,, skip this step)
 $ In your terminal, install adonisjs with this command (npm install -g @adonisjs/cli)
 $clone the project using this link git (https://github.com/emmanuelamo/contact_record_api.git) or download the zip file
 $cd contact_record_api
